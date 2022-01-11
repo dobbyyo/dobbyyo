@@ -35,7 +35,7 @@
   
   <br/> <br/>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dobbyyo&show_icons=true&theme=radical)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dobbyyo&show_icons=true&theme=radical)](https://github.com/dobbyyo)
    <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dobbyyo&layout=compact&theme=dracula)](https://github.com/dobbyyo)
