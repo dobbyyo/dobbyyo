@@ -19,10 +19,10 @@
   
   📮&nbsp;&nbsp;Follow Me&nbsp;📮
   
-   <a href="https://velog.io/@rlaekals97/">
+<!--    <a href="https://velog.io/@rlaekals97/">
     <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@rlaekals97"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/da_min_kk/">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/da_min_kk/"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
